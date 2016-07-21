@@ -1,0 +1,17 @@
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/obj/Debug/Assembly-CSharp.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/UnityEngine.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/UnityEditor.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/Mono.Cecil.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/Unity.DataContract.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/naoyaaizawa/RetroFarm/RetroFarm/Temp/bin/Debug/Mono.Cecil.Mdb.dll
